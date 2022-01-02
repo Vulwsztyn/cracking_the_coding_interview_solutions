@@ -1,0 +1,1 @@
+Repo with implementations of solutions to questions from the book "Cracking the Coding Interview".
